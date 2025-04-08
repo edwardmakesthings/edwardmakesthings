@@ -1,6 +1,8 @@
-## Hi there 👋, I'm Edward
+## 
+## I'm Edward 👋, it's good to see you here.
 
 Software Engineer & Technical Director | Building bridges between creative and technical worlds
+
 Previously worked as a Pipeline TD in VFX/film building tools, pipelines, and APIs to give artists fewer headaches while building better assets.
 
 ## About Me
